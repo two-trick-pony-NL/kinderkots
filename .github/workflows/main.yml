@@ -2,7 +2,7 @@ on: push
 name: 🚀 CI/CD
 jobs:
   web-deploy:
-    name: 🎉 Deployment to Cpanel
+    name: 🎉 Deploying new page
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code from Github repo
