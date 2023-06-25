@@ -14,4 +14,4 @@ jobs:
         server: ${{ secrets.FTPHOST }}
         username: ${{ secrets.FTPUSERNAME }}
         password: ${{ secrets.FTPPASSWORD }}
-        server-dir: /public_html/
+        server-dir: /kinderkots/
